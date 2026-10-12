@@ -1,0 +1,26 @@
+[
+  {
+    "label": "before",
+    "key": "Backspace",
+    "remainingImages": 1,
+    "url": "http://127.0.0.1:5175/session/web-shell-e2e-session"
+  },
+  {
+    "label": "before",
+    "key": "Delete",
+    "remainingImages": 1,
+    "url": "http://127.0.0.1:5175/session/web-shell-e2e-session"
+  },
+  {
+    "label": "after",
+    "key": "Backspace",
+    "remainingImages": 0,
+    "url": "http://127.0.0.1:5176/session/web-shell-e2e-session"
+  },
+  {
+    "label": "after",
+    "key": "Delete",
+    "remainingImages": 0,
+    "url": "http://127.0.0.1:5176/session/web-shell-e2e-session"
+  }
+]
